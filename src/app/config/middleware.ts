@@ -1,1 +1,0 @@
-export { auth as middleward } from "@/app/config/auth"
