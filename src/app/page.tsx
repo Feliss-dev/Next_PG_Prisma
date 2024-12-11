@@ -1,3 +1,4 @@
+
 import Link from "next/link";
 
 export default function HomePage(){
@@ -11,6 +12,8 @@ export default function HomePage(){
       <Link href="/post" className="underline">
       View post
       </Link>
+
+    
 
     </main>
   )
